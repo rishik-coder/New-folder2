@@ -6,7 +6,6 @@ def calculator():
 
     num2 = float(input("Enter second number: "))
 
-   
 
     if op == "+":
 
@@ -30,3 +29,4 @@ def calculator():
 
 
 print(calculator())
+print("hello")
